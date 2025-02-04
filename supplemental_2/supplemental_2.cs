@@ -1,6 +1,8 @@
-﻿namespace supplemental_2;
+﻿using 
 
-public class Class1
+namespace supplemental_2;
+
+public class supplemental_2
 {
 
 }
